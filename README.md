@@ -161,8 +161,8 @@ NEXT_PUBLIC_SUPABASE_ANON_KEY=你的anon_key
 
 # 通义千问 (DashScope)
 QWEN_API_KEY=sk-你的DashScope密钥
-QWEN_BASE_URL=https://dashscope.aliyuncs.com/compatible-mode/v1
-QWEN_MODEL=你的模型名称    # 可选: qwen-max, qwen3.6-plus, qwen3.7-max 等
+QWEN_BASE_URL=你的API地址
+QWEN_MODEL=你的模型名称
 ```
 
 ### 4. 创建数据库表
