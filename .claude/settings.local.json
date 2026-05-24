@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir -p \"D:/Claude/MemoSyncer/src/app/[locale]\")",
+      "Bash(mkdir -p \"D:/Claude/MemoSyncer/src/app/[locale]/\\(auth\\)/login\")",
+      "Bash(mkdir -p \"D:/Claude/MemoSyncer/src/app/[locale]/\\(auth\\)/signup\")",
+      "Bash(mkdir -p \"D:/Claude/MemoSyncer/src/app/[locale]/dashboard\")",
+      "Bash(mkdir -p \"D:/Claude/MemoSyncer/src/app/[locale]/decks/new\")",
+      "Bash(npm run *)",
+      "Bash(npx next *)",
+      "Bash(NEXT_TELEMETRY_DISABLED=1 npm run build)"
+    ]
+  }
+}
